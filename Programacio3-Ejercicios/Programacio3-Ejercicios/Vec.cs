@@ -47,5 +47,35 @@ namespace Programacio3_Ejercicios
                 listBox1.Items.Add(Items);
             }
         }
+
+        private void EjecutarMatrizutton_Click(object sender, EventArgs e)
+        {
+            int[,] matriz1 = new int[2, 3]
+            {
+                {4,5,30},
+                {9,7,10}
+            };
+
+            int[,] matriz2 = new int[3, 3];
+            //Llenado de Matriz
+            for(int fila =0; fila<matriz2.GetLength(0); fila++)
+            {
+                for(int columna=0; columna<matriz2.GetLength(1); columna++)
+                {
+                    matriz2[fila, columna] = 4 + (fila + 4) * (columna + 3);
+                }
+            }
+
+            //Mostrar matriz en ListBox
+            for (int fila = 0; fila < matriz2.GetLength(0); fila++)
+            {
+                for (int columna = 0; columna < matriz2.GetLength(1); columna++)
+                {
+                    listBox2.Items.Add("La posicion: [" + fila +"," + columna+ "] = "+ matriz2[fila,columna]);
+                }
+            }
+
+
+        }
     }
 }
