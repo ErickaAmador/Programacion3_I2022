@@ -36,7 +36,7 @@
             // 
             this.EjecutarButton.Location = new System.Drawing.Point(202, 79);
             this.EjecutarButton.Name = "EjecutarButton";
-            this.EjecutarButton.Size = new System.Drawing.Size(141, 23);
+            this.EjecutarButton.Size = new System.Drawing.Size(183, 23);
             this.EjecutarButton.TabIndex = 0;
             this.EjecutarButton.Text = "Ejecutar";
             this.EjecutarButton.UseVisualStyleBackColor = true;
@@ -47,7 +47,7 @@
             this.listBox1.FormattingEnabled = true;
             this.listBox1.Location = new System.Drawing.Point(202, 124);
             this.listBox1.Name = "listBox1";
-            this.listBox1.Size = new System.Drawing.Size(141, 147);
+            this.listBox1.Size = new System.Drawing.Size(183, 186);
             this.listBox1.TabIndex = 1;
             // 
             // Form1
