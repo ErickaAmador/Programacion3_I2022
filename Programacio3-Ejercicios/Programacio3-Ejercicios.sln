@@ -5,7 +5,7 @@ VisualStudioVersion = 17.0.32112.339
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Programacio3-Ejercicios", "Programacio3-Ejercicios\Programacio3-Ejercicios.csproj", "{78C8875A-9C26-4277-A69F-D4D1C353AC9F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FuncionesAsincronadas", "FuncionesAsincronadas\FuncionesAsincronadas.csproj", "{2C112878-097A-4ADE-8C09-FEBA7920C147}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClasesLibreria", "ClasesLibreria\ClasesLibreria.csproj", "{E758B78A-42C1-4EC7-81BD-ABFE4691E676}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{78C8875A-9C26-4277-A69F-D4D1C353AC9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{78C8875A-9C26-4277-A69F-D4D1C353AC9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{78C8875A-9C26-4277-A69F-D4D1C353AC9F}.Release|Any CPU.Build.0 = Release|Any CPU
-		{2C112878-097A-4ADE-8C09-FEBA7920C147}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{2C112878-097A-4ADE-8C09-FEBA7920C147}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{2C112878-097A-4ADE-8C09-FEBA7920C147}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{2C112878-097A-4ADE-8C09-FEBA7920C147}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E758B78A-42C1-4EC7-81BD-ABFE4691E676}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E758B78A-42C1-4EC7-81BD-ABFE4691E676}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E758B78A-42C1-4EC7-81BD-ABFE4691E676}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E758B78A-42C1-4EC7-81BD-ABFE4691E676}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

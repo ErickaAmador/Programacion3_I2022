@@ -16,7 +16,7 @@ namespace Programacio3_Ejercicios
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new FuncionRecursiva());
+            Application.Run(new Clase());
         }
     }
 }
